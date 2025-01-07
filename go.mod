@@ -19,7 +19,7 @@ require (
 	github.com/shopspring/decimal v1.2.0 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
 )
 
 replace github.com/Masterminds/sprig v2.17.1+incompatible => github.com/Masterminds/sprig/v3 v3.2.2
