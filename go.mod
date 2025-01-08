@@ -1,4 +1,4 @@
-module github.com/subfuzion/envtpl
+module github.com/GrennanM/envtpl
 
 go 1.17
 
